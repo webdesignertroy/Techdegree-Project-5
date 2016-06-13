@@ -32,7 +32,7 @@ var $scroll = function($hash, menuCount) {
 };
 
 /************************
-On 'Click' Action
+Event Listners
 *************************/
 
 // On menu click, reveal or hide mobile navigation
